@@ -10,4 +10,5 @@ Los diseños para la impresora y la cortadora Laser, así como las instrucciones
 
 https://ibmtjbot.github.io/#gettj
 
-Las piezas que conseguiremos serán las siguientes:
+
+
