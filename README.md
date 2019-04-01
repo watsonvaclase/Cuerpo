@@ -8,7 +8,7 @@ Este robot es DY (Do it yourself) y puede conseguirse imprimiendo las piezas en 
 
 Los diseños para la impresora y la cortadora Laser, así como las instrucciones están en la siguiente web:
 
-<a https://ibmtjbot.github.io/#gettj>https://ibmtjbot.github.io/#gettj</a>
+<a href="https://ibmtjbot.github.io/#gettj">https://ibmtjbot.github.io/#gettj</a>
 
 
 
