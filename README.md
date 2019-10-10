@@ -8,6 +8,8 @@ Este robot es DIY (Do it yourself) y puede conseguirse imprimiendo las piezas en
 Los DISEÑOS para la impresora y la cortadora Laser se puede bajar desde:
 
 <a href="https://github.com/watsonvaclase/bodyfiles">https://github.com/watsonvaclase/bodyfiles
+ó desde:
+<a href="https://https://ibmtjbot.github.io/">https://ibmtjbot.github.io/
 
 En el siguiente VÍDEO se puede ver el montaje:<br>
 
