@@ -9,7 +9,7 @@ Los DISEÑOS para la impresora y la cortadora Laser se puede bajar desde:
 
 <a href="https://github.com/watsonvaclase/bodyfiles">https://github.com/watsonvaclase/bodyfiles
 ó desde:
-<a href="https://https://ibmtjbot.github.io/">https://ibmtjbot.github.io/
+<a href="https://ibmtjbot.github.io/#gettj/">https://ibmtjbot.github.io/#gettj
 
 En el siguiente VÍDEO se puede ver el montaje:<br>
 
