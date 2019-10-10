@@ -22,7 +22,7 @@ En el siguiente VÍDEO se puede ver el montaje:<br>
 > Para una resistencia mayor, recomendamos pegar algunas partes con pistola de pegamento. Especialmente las piernas y las partes que sostienen la Raspberry Pi en la parte inferior.
 
 **AVISO si se utiliza Impresora 3D**
-> Es posible que tenga que ligar algunas piezas para encajarlas, especialmente ranuras<br>
+> Es posible que tenga que ligar algunas piezas para encajarlas, especialmente ranuras <br><br>
   
 En los siguientes enlaces se pueden encontrar más información e instrucciones:
 
