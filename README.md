@@ -28,8 +28,8 @@ En el siguiente VÍDEO se puede ver el montaje:<br>
   
 En los siguientes enlaces se pueden encontrar más información e instrucciones:
 
-<a href="https://www.instructables.com/id/Build-TJ-Bot-Out-of-Cardboard/"</a>
-https://www.instructables.com/id/Build-TJ-Bot-Out-of-Cardboard/
+<a href="https://www.instructables.com/id/Build-TJ-Bot-Out-of-Cardboard"</a>
+https://www.instructables.com/id/Build-TJ-Bot-Out-of-Cardboard
 
 
 
