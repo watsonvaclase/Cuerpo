@@ -3,7 +3,7 @@
 
 Para comenzar a trabajar con TJBot, lo primero que debemos hacer es obtener las piezas para poder montarlo.
 
-Este robot es DY (Do it yourself) y puede conseguirse imprimiendo las piezas en una impresora 3D ó también de cartón troquelado previamente cortado con Laser.
+Este robot es DIY (Do it yourself) y puede conseguirse imprimiendo las piezas en una impresora 3D ó también de cartón troquelado previamente cortado con Laser.
 
 Los DISEÑOS para la impresora y la cortadora Laser se puede bajar desde:
 
