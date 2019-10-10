@@ -9,9 +9,8 @@ Los DISEÑOS para la impresora y la cortadora Laser se puede bajar desde:
 
 <a href="github.com/watsonvaclase/body-files.git">https://github.com/watsonvaclase/body-files.git
 
-En el siguiente VÍDEO se puede ver el montaje:
+En el siguiente VÍDEO se puede ver el montaje:<br>
 
-<a href="https://youtu.be/bLt3Cf2Ui3o">https://youtu.be/bLt3Cf2Ui3o
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bLt3Cf2Ui3o" target="_blank"><img src="http://img.youtube.com/vi/bLt3Cf2Ui3o/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
 
@@ -23,9 +22,9 @@ En el siguiente VÍDEO se puede ver el montaje:
 > Para una resistencia mayor, recomendamos pegar algunas partes con pistola de pegamento. Especialmente las piernas y las partes que sostienen la Raspberry Pi en la parte inferior.
 
 **AVISO si se utiliza Impresora 3D**
-> Es posible que tenga que ligar algunas piezas para encajarlas, especialmente ranuras
+> Es posible que tenga que ligar algunas piezas para encajarlas, especialmente ranuras<br>
   
-En estos enlaces se pueden encontrar más información e instrucciones:
+En los siguientes enlaces se pueden encontrar más información e instrucciones:
 
 <a href="https://ibmtjbot.github.io/#gettj">https://ibmtjbot.github.io/#gettj</a>
 https://www.instructables.com/id/Build-TJ-Bot-Out-of-Cardboard/
