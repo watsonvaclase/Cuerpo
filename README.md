@@ -1,5 +1,5 @@
 
-# Construcción de la Carcasa
+## Construcción de la Carcasa
 
 Para comenzar a trabajar con TJBot, lo primero que debemos hacer es obtener las piezas para poder montarlo.
 
