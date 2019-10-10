@@ -3,20 +3,32 @@
 
 Para comenzar a trabajar con TJBot, lo primero que debemos hacer es obtener las piezas para poder montarlo.
 
-
 Este robot es DY (Do it yourself) y puede conseguirse imprimiendo las piezas en una impresora 3D ó también de cartón troquelado previamente cortado con Laser.
 
-Los diseños para la impresora y la cortadora Laser se puede bajar desde:
+Los DISEÑOS para la impresora y la cortadora Laser se puede bajar desde:
 
-https://github.com/watsonvaclase/body-files.git
+<a href="github.com/watsonvaclase/body-files.git">https://github.com/watsonvaclase/body-files.git
 
-En el siguiente vídeo se puede ver el montaje:
+En el siguiente VÍDEO se puede ver el montaje:
 
-https://youtu.be/bLt3Cf2Ui3o
+<a href="https://youtu.be/bLt3Cf2Ui3o">https://youtu.be/bLt3Cf2Ui3o
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bLt3Cf2Ui3o" target="_blank"><img src="http://img.youtube.com/vi/bLt3Cf2Ui3o/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" border="10" /></a>
 
-Para más información e instrucciones están en la siguiente web:
+
+**AVISO si se utiliza el troquelado de CARTÓN**
+> PRESTE ATENCIÓN CUANDO DOBLE EL CARTÓN (en algunas partes hay instrucciones "doble arriba“ o "doble abajo“), SI LO DOBLA MAL, NECESITARÁ UN PEGAMENTO PARA ARREGLARLO.
+> Preparese para ensuciarse, ya que el corte laser deja manchas en las manos. Se recomienda limpiar cada parte con un pañuelo de papel
+> Siga las instrucciones en el vídeo manual para que luego no tenga que volver a montarlo de nuevo, especialmente 
+  cuando conecte las piernas para la estabilidad e insertando el servomecanismo
+> Para una resistencia mayor, recomendamos pegar algunas partes con pistola de pegamento. Especialmente las piernas y las partes que sostienen la Raspberry Pi en la parte inferior.
+
+**AVISO si se utiliza Impresora 3D**
+> Es posible que tenga que ligar algunas piezas para encajarlas, especialmente ranuras
+  
+En estos enlaces se pueden encontrar más información e instrucciones:
 
 <a href="https://ibmtjbot.github.io/#gettj">https://ibmtjbot.github.io/#gettj</a>
+https://www.instructables.com/id/Build-TJ-Bot-Out-of-Cardboard/
 
 
 
