@@ -7,7 +7,7 @@ Este robot es DIY (Do it yourself) y puede conseguirse imprimiendo las piezas en
 
 Los DISEÑOS para la impresora y la cortadora Laser se puede bajar desde:
 
-<a href="github.com/watsonvaclase/body-files.git">https://github.com/watsonvaclase/body-files.git
+<a href="https://watsonvaclase.github.io/bodyfiles/">https://watsonvaclase.github.io/bodyfiles.git
 
 En el siguiente VÍDEO se puede ver el montaje:<br>
 
